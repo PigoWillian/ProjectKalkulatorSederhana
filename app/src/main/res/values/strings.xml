@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KalkulatorSederhana</string>
+    <string name="hitung">Hitung</string>
+    <string name="hint">Masukkan Angka</string>
+    <string-array name="opsi">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Bagi</item>
+        <item>Kali</item>
+        <item>Modulus</item>
+    </string-array>
 </resources>

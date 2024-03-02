@@ -9,4 +9,7 @@
         <item>Kali</item>
         <item>Modulus</item>
     </string-array>
+    <string name="total">total</string>
+    <string name="pesanErrorKosong">Pembagi tidak boleh angka 0</string>
 </resources>
+
